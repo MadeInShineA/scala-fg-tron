@@ -1,4 +1,4 @@
 package ScalaFGTron
-object Orientation extends Enumeration {
+object Orientations extends Enumeration {
   val UP, DOWN, LEFT, RIGHT = Value
 }
